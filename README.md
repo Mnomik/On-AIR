@@ -1,14 +1,14 @@
 # Mnomic
 
-**Desarrollador independiente**
+**Independent developer**
 
-Soluciono problemas con software.
+I solve problems with software.
 
-## Aplicaciones terminadas
+## Released apps
 
-- **SteamSplit** · Separa pistas en stems para trabajar sus elementos por separado.
-- **Harmonic Flow** · Rueda Camelot interactiva para preparar mezclas armónicas en Windows.
+- **SteamSplit** · Split tracks into stems so you can work with each part separately.
+- **Harmonic Flow** · An interactive Camelot wheel for harmonic mixing on Windows.
 
-## En desarrollo
+## In development
 
-Sound Sampler · Optimizador de Windows · Sound Serpa
+Sound Sampler · Windows Optimizer · Sound Serpa
