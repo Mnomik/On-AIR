@@ -1,7 +1,5 @@
 # Mnomic
 
-**Independent developer**
-
 I solve problems with software.
 
 ## Released apps
