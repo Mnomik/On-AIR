@@ -1,6 +1,6 @@
-# Mnomic
+# MusicSoft
 
-I solve problems with software.
+Solving problems with software.
 
 ## Released apps
 - **[SteamSplit](https://github.com/Mnomik/StemSplit)** · Split tracks into stems so you can work with each part separately.
