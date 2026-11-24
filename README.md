@@ -3,7 +3,7 @@
 I solve problems with software.
 
 ## Released apps
-- **[[SteamSplit]](https://github.com/Mnomik/StemSplit)** · Split tracks into stems so you can work with each part separately.
+- **[SteamSplit](https://github.com/Mnomik/StemSplit)** · Split tracks into stems so you can work with each part separately.
 - **[Harmonic Flow](https://github.com/RoniMnomic/Harmonic-Flow)** · An interactive Camelot wheel for harmonic mixing on Windows.
 
 ## In development
