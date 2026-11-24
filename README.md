@@ -1,6 +1,6 @@
 # ON AIR
 
-Solving problems with software
+Sound Soft
 
 ## Released apps
 - **[SteamSplit](https://github.com/Mnomik/StemSplit)** · Split tracks into stems so you can work with each part separately.
